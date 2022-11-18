@@ -1,5 +1,7 @@
 using Auth0.AspNetCore.Authentication;
 using Auth0_Demo.Support;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.Extensions.Hosting;
 
 namespace Auth0_Demo
