@@ -1,0 +1,7 @@
+C:\Users\eshoh\source\repos\Auth0_Demo\Auth0_Demo\obj\Release\net7.0\PubTmp\Out\Auth0_Demo.exe
+C:\Users\eshoh\source\repos\Auth0_Demo\Auth0_Demo\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\eshoh\source\repos\Auth0_Demo\Auth0_Demo\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\eshoh\source\repos\Auth0_Demo\Auth0_Demo\obj\Release\net7.0\PubTmp\Out\Auth0_Demo.dll
+C:\Users\eshoh\source\repos\Auth0_Demo\Auth0_Demo\obj\Release\net7.0\PubTmp\Out\Auth0_Demo.deps.json
+C:\Users\eshoh\source\repos\Auth0_Demo\Auth0_Demo\obj\Release\net7.0\PubTmp\Out\Auth0_Demo.runtimeconfig.json
+C:\Users\eshoh\source\repos\Auth0_Demo\Auth0_Demo\obj\Release\net7.0\PubTmp\Out\Auth0_Demo.pdb

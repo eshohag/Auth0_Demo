@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\PublishFiles\Auth0_Demo</_PublishTargetUrl>
+    <History>True|2022-11-18T12:53:49.1567622Z;False|2022-11-18T18:52:27.7872584+06:00;True|2022-11-18T18:30:15.7678989+06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
